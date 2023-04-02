@@ -19,7 +19,7 @@ Today we've learned a lot of fundemental yet useful information in dealing with 
 * `git commit -m`
 * `git push`
 
-at the end we've learned about VSCode and how to write markdown language in term of using it in documentaions as we are doing right now!  
+at the end we've learned about VSCode and how to write markdown language in term of using it in documentations as we are doing right now!  
 ![VSCode is Amazing](https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png)  
 
 Markdown is used to document on github usually.
@@ -41,7 +41,7 @@ Lastly I really enjoyed reading the big expiernced programmers and non-programme
 >Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 — ***Bill Gates***
 
-So it's not about right much of code but about making it valuable instead.
+So it's not about write much of code but about making it valuable instead.
 
 Contact Info:
 
