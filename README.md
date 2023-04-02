@@ -28,7 +28,7 @@ Markdown is used to document on github usually.
 
 ---
 
-then we've been assined to read an article about the programmer mindset, I real it all and I've learned a lot from. the article was written by [Huseyin Polat Yuruk][1]. 
+then we've been assigned to read an article about the programmer mindset, I real it all and I've learned a lot from. the article was written by [Huseyin Polat Yuruk][1]. 
 
 [1]: https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/
 
